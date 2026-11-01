@@ -87,3 +87,4 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 - [Students Against Depression](https://studentsagainstdepression.org/) - Blogs, tips and information for and by students.
 - [The Mighty](https://themighty.com) - Stories, articles and news about different mental health topics.
 - [mentalhealth.day](https://mentalhealth.day) - Share this site as your status, out of office email, or on social media when you take a self-care day to normalize and destigmatize mental health.
+- [transitional.life](https://transitional.life/) - Free library of short literary companions for life transitions such as midlife, divorce, job loss, loneliness and grief. Names what you are going through without trying to fix it; reflective reading, not therapy.
